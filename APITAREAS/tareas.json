@@ -1,0 +1,12 @@
+[
+  {
+    "nombre": "Estudiar CSS",
+    "descripcion": "Repasar estilos",
+    "estado": "PENDIENTE"
+  },
+  {
+    "nombre": "Estudiar JS",
+    "descripcion": "Repasar funciones flecha",
+    "estado": "COMPLETADO"
+  }
+]
